@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "header": "Spaghetti Carbonara",
+    "paragraph": "Spaghetti carbonara is a classic Italian dish that's loved by chefs and home cooks alike. To make this dish, start by cooking spaghetti until it's al dente.",
+    "img": "https://i.ibb.co/Q6xs6cL/carousel-1.jpg",
+    "alt": "Carousel-1"
+  },
+  {
+    "id": 1,
+    "header": "Pan-Seared Scallops with Lemon Butter Sauce",
+    "paragraph": "Pan-seared scallops with lemon butter sauce is a simple yet elegant dish that's perfect for a special occasion.",
+    "img": "https://i.ibb.co/94s1G3j/carousel-2.jpg",
+    "alt": "Carousel-1"
+  },
+  {
+    "id": 3,
+    "header": "Grilled Steak with Chimichurri Sauce",
+    "paragraph": "Grilled steak with chimichurri sauce is a classic dish that never goes out of style. To make this dish, start by grilling a juicy steak to your desired level of doneness.",
+    "img": "https://i.ibb.co/6RZpkDv/carousel-3.jpg",
+    "alt": "Carousel-1"
+  }
+]

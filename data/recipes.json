@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Barbecued Prawns with Lemon Garlic Butter",
+    "ingredients": [
+      "1 kg large raw prawns, peeled and deveined",
+      "2 cloves garlic, minced",
+      "1/2 cup unsalted butter, melted",
+      "1/4 cup lemon juice",
+      "1/4 cup chopped parsley",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "instructions": [
+      "Preheat a barbecue grill to high heat.",
+      "In a small bowl, combine garlic, melted butter, lemon juice, chopped parsley, salt, and black pepper.",
+      "Thread prawns onto skewers and brush with the garlic butter mixture.",
+      "Place prawn skewers on the barbecue grill and cook for 3-4 minutes on each side or until pink and cooked through.",
+      "Serve hot with lemon wedges and additional garlic butter on the side."
+    ],
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Beef and Guinness Stew",
+    "ingredients": [
+      "2 lbs stewing beef, cut into 1-inch cubes",
+      "2 tbsp all-purpose flour",
+      "2 tbsp vegetable oil",
+      "1 large onion, chopped",
+      "3 cloves garlic, minced",
+      "4 carrots, peeled and chopped",
+      "4 celery stalks, chopped",
+      "2 tbsp tomato paste",
+      "2 cups beef broth",
+      "1 cup Guinness beer",
+      "2 tbsp Worcestershire sauce",
+      "2 bay leaves",
+      "1 tsp dried thyme",
+      "Salt and black pepper, to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 325°F.",
+      "In a large bowl, toss beef cubes with flour until well coated.",
+      "Heat vegetable oil in a large Dutch oven over medium-high heat.",
+      "Add beef cubes and cook until browned on all sides.",
+      "Add onion, garlic, carrots, and celery, and cook for 5 minutes or until vegetables are tender.",
+      "Stir in tomato paste, beef broth, Guinness beer, Worcestershire sauce, bay leaves, thyme, salt, and black pepper.",
+      "Bring to a simmer, then cover and transfer to the preheated oven.",
+      "Bake for 2-3 hours or until beef is tender.",
+      "Serve hot with mashed potatoes and steamed green beans."
+    ],
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Anzac Biscuits",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 cup rolled oats",
+      "1 cup desiccated coconut",
+      "3/4 cup granulated sugar",
+      "1/2 cup unsalted butter",
+      "2 tbsp golden syrup",
+      "1 tsp baking soda",
+      "2 tbsp boiling water"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F. Line a baking sheet with parchment paper.",
+      "In a large bowl, combine flour, rolled oats, desiccated coconut, and granulated sugar.",
+      "In a small saucepan, melt unsalted butter and golden syrup over low heat.",
+      "In a small bowl, dissolve baking soda in boiling water, then add to the butter mixture.",
+      "Add the butter mixture to the dry ingredients and stir until well combined.",
+      "Roll tablespoons of the mixture into balls and place them on the prepared baking sheet, spacing them 2 inches apart.",
+      "Bake for 12-15 minutes or until golden brown.",
+      "Remove from the oven and let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely.",
+      "Serve with a cup of tea or coffee."
+    ],
+    "rating": 2
+  }
+]

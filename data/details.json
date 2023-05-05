@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "heading": "Quick and easy meals",
+    "num": 570,
+    "extra": "ITEMS"
+  },
+  {
+    "id": 2,
+    "heading": "Available Recipes",
+    "num": 221,
+    "extra": "RECIPES"
+  },
+  { "id": 3, "heading": "Scheduled Events", "num": 321, "extra": "SUCCESS EVENTS" },
+  { "id": 4, "heading": "Sustainable food practices", "num": "411", "extra": "FOOD" }
+]

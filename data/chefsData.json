@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Peter Gilmore",
+    "years_of_experience": 30,
+    "number_of_recipes": 200,
+    "picture_url": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/Peter-Gilmore.jpg?itok=yiSVjjcj",
+    "likes": 10000
+  },
+  {
+    "id": 1,
+    "name": "Maggie Beer",
+    "years_of_experience": 50,
+    "number_of_recipes": 150,
+    "picture_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0eaubcs_IT1F27KVOANtnRyX5oC0mslsr0XmE2A0bkQ6EnJAJ",
+    "likes": 15000
+  },
+  {
+    "id": 2,
+    "name": "Neil Perry",
+    "years_of_experience": 40,
+    "number_of_recipes": 300,
+    "picture_url": "https://media1.agfg.com.au/images/chefs/5/hero-300.jpg",
+    "likes": 20000
+  },
+  {
+    "id": 3,
+    "name": "Shannon Bennett",
+    "years_of_experience": 25,
+    "number_of_recipes": 250,
+    "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eDAW3k_CH18VEEQyyTqZ6JuSwz-AuttOK_c7OsyMXwoX-1rwXOfJwbvzJT3UwK6w5VQ&usqp=CAU",
+    "likes": 12000
+  },
+  {
+    "id": 4,
+    "name": "Ben Shewry",
+    "years_of_experience": 20,
+    "number_of_recipes": 180,
+    "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIYs4AitQDm5TPmT1rZJMOv39b-Dzylu0Hh9giWNnyg5UB-RVQE1NhXB-n2LDB_tZnaM&usqp=CAU",
+    "likes": 9000
+  },
+  {
+    "id": 5,
+    "name": "Matt Moran",
+    "years_of_experience": 30,
+    "number_of_recipes": 150,
+    "picture_url": "https://images.squarespace-cdn.com/content/v1/624fa63d5ba99559345806e6/a2eddb83-2e89-4723-b03c-f2a7c32326dd/Matt-Moran-chef_d260341a0224bb248f9f6b16cad40c3b.jpg",
+    "likes": 8000
+  }
+]

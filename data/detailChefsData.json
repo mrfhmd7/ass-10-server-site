@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "name": "Peter Gilmore",
+    "years_of_experience": 30,
+    "number_of_recipes": 200,
+    "picture_url": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/Peter-Gilmore.jpg?itok=yiSVjjcj",
+    "likes": 10000,
+    "bio": "Peter Gilmore is an award-winning Australian chef who is currently the executive chef of Quay restaurant in Sydney. He is known for his focus on using local and seasonal ingredients, as well as his innovative use of texture and flavor. Gilmore's dishes are often described as both beautiful and delicious, and he has been recognized as one of the top chefs in the world."
+  },
+  {
+    "id": 1,
+    "name": "Maggie Beer",
+    "years_of_experience": 50,
+    "number_of_recipes": 150,
+    "picture_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0eaubcs_IT1F27KVOANtnRyX5oC0mslsr0XmE2A0bkQ6EnJAJ",
+    "likes": 15000,
+    "bio": "Maggie Beer is an Australian chef, author, and television personality who is known for her focus on using high-quality, seasonal ingredients. She is the owner of Maggie Beer Products, a company that produces a range of gourmet food products, and is also the host of The Great Australian Bake Off. Beer is particularly well-known for her work with the Barossa Valley region in South Australia, where she has lived and worked for many years. Her cooking style is characterized by its simplicity and emphasis on fresh, local produce."
+  },
+  {
+    "id": 2,
+    "name": "Neil Perry",
+    "years_of_experience": 40,
+    "number_of_recipes": 300,
+    "picture_url": "https://media1.agfg.com.au/images/chefs/5/hero-300.jpg",
+    "likes": 20000,
+    "bio": "Neil Perry is a well-known Australian chef, restaurateur, and author. He is the founder and co-owner of the Rockpool Dining Group, which operates several restaurants throughout Australia. Perry is known for his contemporary take on Australian cuisine, as well as his focus on using high-quality, sustainable ingredients."
+  },
+  {
+    "id": 3,
+    "name": "Shannon Bennett",
+    "years_of_experience": 25,
+    "number_of_recipes": 250,
+    "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eDAW3k_CH18VEEQyyTqZ6JuSwz-AuttOK_c7OsyMXwoX-1rwXOfJwbvzJT3UwK6w5VQ&usqp=CAU",
+    "likes": 12000,
+    "bio": "Shannon Bennett is an award-winning chef, restaurateur, and author based in Melbourne, Australia. He is the owner and head chef of Vue de Monde, which has been named one of the best restaurants in the world. Bennett's cooking style is characterized by his focus on high-quality, seasonal ingredients, and his innovative use of technique and flavor."
+  },
+  {
+    "id": 4,
+    "name": "Ben Shewry",
+    "years_of_experience": 20,
+    "number_of_recipes": 180,
+    "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIYs4AitQDm5TPmT1rZJMOv39b-Dzylu0Hh9giWNnyg5UB-RVQE1NhXB-n2LDB_tZnaM&usqp=CAU",
+    "likes": 9000,
+    "bio": "Ben Shewry is a New Zealand-born chef who is currently based in Melbourne, Australia. He is the head chef and owner of Attica, which has been named one of the World's 50 Best Restaurants. Shewry's cooking style is known for its focus on local and native Australian ingredients, as well as his innovative use of texture and flavor."
+  },
+
+  {
+    "id": 5,
+    "name": "Matt Moran",
+    "years_of_experience": 30,
+    "number_of_recipes": 150,
+    "picture_url": "https://images.squarespace-cdn.com/content/v1/624fa63d5ba99559345806e6/a2eddb83-2e89-4723-b03c-f2a7c32326dd/Matt-Moran-chef_d260341a0224bb248f9f6b16cad40c3b.jpg",
+    "likes": 8000,
+    "bio": "Matt Moran is an Australian chef and restaurateur who has become a household name in the Australian culinary scene. Born in Sydney in 1969, Moran began his career as an apprentice chef at La Belle Helene in Roseville, Sydney."
+  }
+]
